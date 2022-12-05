@@ -1,0 +1,17 @@
+a:hover{
+    color: saddlebrown;
+    text-decoration: none;
+}body h1+p .special{
+    color:yellow;
+    background-color: black;
+    padding: 5px;
+}
+h1+p{
+    font-size: 200%;
+}
+li em{
+    color: rebeccapurple;
+}
+.special{
+    color: darkorange;
+}
